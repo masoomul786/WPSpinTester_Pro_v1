@@ -33,7 +33,7 @@ This tool does not require a WiFi adapter to operate; it relies on the WPS PIN t
 2. **Navigate to the Project Directory**
 
     ```bash
-    cd WPSpinTester-Pro-v1
+    cd wpsTester
     ```
 
 3. **Install Dependencies**
