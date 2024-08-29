@@ -49,7 +49,7 @@ This tool does not require a WiFi adapter to operate; it relies on the WPS PIN t
     Execute the application using:
 
     ```bash
-    python main.py
+    python wpspintester.py
     ```
 
 ## Usage
